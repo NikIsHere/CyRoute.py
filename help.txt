@@ -1,0 +1,20 @@
+Commands:
+
+CTRL + C FOR EXIT OR TO GO BACK TO MAIN MENU
+
+    VERBOSE:     /sets verbose [BOOL:TRUE/FALSE]
+
+    SHOW:       /shows the values of options
+
+    SET:
+        OPTIONS:
+                    url    /sets the URL to copy [STRING]
+                    port   /sets the port for the Webserver (default should be 80 for http) [INT]
+
+     START:     /starts the trap (webserver etc.) [FUNCTION]
+
+     SHUTDOWN:    /shuts down Webserver if running [FUNCTION]
+
+     SAVE:        /saves current configuration into a file
+
+     DOWNLOAD:     /clone site

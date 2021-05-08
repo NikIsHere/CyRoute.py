@@ -7,7 +7,7 @@ colorama==0.4.1
 cssselect==1.0.3
 decorator==4.4.0
 dnspython==1.16.0
-eventlet==0.25.0
+eventlet==0.31.0
 fire==0.2.0
 Flask==1.1.1
 Flask-Cors==3.0.8
